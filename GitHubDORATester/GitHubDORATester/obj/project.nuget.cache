@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1ScoOE+T39Q3nKt8avbEHF6N3szgCgHi5BS2fzPYMgL2Hbc01AWeiNGloJlREXF8ZwMCyOs9ai0eSRJNZ5PQw==",
+  "success": true,
+  "projectFilePath": "D:\\ArchitecturalWork\\POC\\GitHubDORATester\\GitHubDORATester\\GitHubDORATester.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://usaz-wwssri01d.azgovssrus.ssrus.com/DefaultCollection/_packaging/Ipsos_Packages/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
